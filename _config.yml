@@ -1,0 +1,12 @@
+# Site settings
+title: GitHub as a content publishing platform
+email: paul.walsh@okfn.org
+description:
+baseurl: "/github-content"
+url: "http://yourdomain.com"
+twitter_username: _pwalsh
+github_username:  pwalsh
+collections:
+  participants:
+    output: true
+markdown: kramdown
