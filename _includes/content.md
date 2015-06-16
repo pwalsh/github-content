@@ -2,6 +2,8 @@
 
 The skill share formerly known as "Jekyll"
 
+This was recorded on Hangouts On Air. [See it](https://www.youtube.com/watch?v=73V-MjSjL-Q&noredirect=1)
+
 ---
 
 # What is content management on the web?
