@@ -2,4 +2,4 @@
 name: neal bastek
 ---
 
-I'm a skill sharer.
+I'm a **skill sharer**.
